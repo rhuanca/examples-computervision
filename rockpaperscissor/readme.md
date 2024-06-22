@@ -9,4 +9,5 @@ The video link is: https://www.youtube.com/watch?v=k2EahPgl0ho
 conda create -p venv python==3.10 -y
 conda activate venv/
 pip install -r requirements.txt
+python main.py
 ```
